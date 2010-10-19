@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="787ff299-c322-452c-bca8-cf203bed37f9" name="Dan@LAPTOP 2010-10-17 20:27:16" runUser="LAPTOP\Dan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="49cdb7c5-93d7-4e79-b57f-33dbd0230dfc">
+    <Deployment runDeploymentRoot="Dan_LAPTOP 2010-10-17 20_27_16">
+      <DeploymentItem filename="C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\MvcDB4O.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-10-17T20:27:16.9531250+01:00" queuing="2010-10-17T20:27:19.3906250+01:00" start="2010-10-17T20:27:19.7500000+01:00" finish="2010-10-17T20:30:54.6406250+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="LAPTOP" outcome="Error" timestamp="2010-10-17T20:30:54.6406250+01:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\documents and settings\dan\my documents\visual studio 2010\projects\mvcdb4o\mvcdb4o.tests\bin\debug\mvcdb4o.tests.dll" id="2fdd3365-4809-3923-4245-083401369062">
+      <Execution id="4201a53f-04e4-44fb-ba45-30f4a5820a0a" />
+      <TestMethod codeBase="C:/Documents and Settings/Dan/my documents/visual studio 2010/Projects/MvcDB4O/MvcDB4O.Tests/bin/Debug/MvcDB4O.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDB4O.Tests.Controllers.StoreControllerTest, MvcDB4O.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2fdd3365-4809-3923-4245-083401369062" executionId="4201a53f-04e4-44fb-ba45-30f4a5820a0a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4201a53f-04e4-44fb-ba45-30f4a5820a0a" testId="2fdd3365-4809-3923-4245-083401369062" testName="Index" computerName="LAPTOP" duration="00:03:34.6562500" startTime="2010-10-17T20:27:19.9843750+01:00" endTime="2010-10-17T20:30:54.6406250+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4201a53f-04e4-44fb-ba45-30f4a5820a0a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

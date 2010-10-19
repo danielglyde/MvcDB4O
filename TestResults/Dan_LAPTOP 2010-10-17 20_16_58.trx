@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4e4000d8-f129-4dcc-bf86-730a14260d7f" name="Dan@LAPTOP 2010-10-17 20:16:58" runUser="LAPTOP\Dan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e7caa0d2-5a2d-4166-8f85-9e1068e4b70e">
+    <Deployment runDeploymentRoot="Dan_LAPTOP 2010-10-17 20_16_58">
+      <DeploymentItem filename="C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\MvcDB4O.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-10-17T20:16:58.8750000+01:00" queuing="2010-10-17T20:17:01.1562500+01:00" start="2010-10-17T20:17:01.4843750+01:00" finish="2010-10-17T20:18:14.2031250+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\documents and settings\dan\my documents\visual studio 2010\projects\mvcdb4o\mvcdb4o.tests\bin\debug\mvcdb4o.tests.dll" id="2fdd3365-4809-3923-4245-083401369062">
+      <Execution id="6b494e1d-ed59-4142-b4d1-5da24a1f9d40" />
+      <TestMethod codeBase="C:/Documents and Settings/Dan/my documents/visual studio 2010/Projects/MvcDB4O/MvcDB4O.Tests/bin/Debug/MvcDB4O.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDB4O.Tests.Controllers.StoreControllerTest, MvcDB4O.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2fdd3365-4809-3923-4245-083401369062" executionId="6b494e1d-ed59-4142-b4d1-5da24a1f9d40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6b494e1d-ed59-4142-b4d1-5da24a1f9d40" testId="2fdd3365-4809-3923-4245-083401369062" testName="Index" computerName="LAPTOP" duration="00:01:10.7458674" startTime="2010-10-17T20:17:01.7500000+01:00" endTime="2010-10-17T20:18:13.9687500+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b494e1d-ed59-4142-b4d1-5da24a1f9d40">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Welcome to ASP.NET MVC!&gt;. Actual:&lt;(null)&gt;. </Message>
+          <StackTrace>   at MvcDB4O.Tests.Controllers.StoreControllerTest.Index() in C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\Controllers\StoreControllerTest.cs:line 36
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

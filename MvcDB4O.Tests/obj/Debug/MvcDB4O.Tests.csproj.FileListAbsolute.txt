@@ -1,0 +1,13 @@
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\MvcDB4O.Tests.dll.config
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\MvcDB4O.Tests.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\MvcDB4O.Tests.pdb
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\MvcDB4O.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\Db4objects.Db4o.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\MvcDB4O.pdb
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\Db4objects.Db4o.xml
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\obj\Debug\MvcDB4O.Tests.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\obj\Debug\MvcDB4O.Tests.pdb
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\Cecil.FlowAnalysis.dll
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O.Tests\bin\Debug\Mono.Cecil.dll

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDB4O", "MvcDB4O\MvcDB4O.csproj", "{C1AA1C7D-15D4-44EB-8FCF-2A80E5449BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDB4O.Tests", "MvcDB4O.Tests\MvcDB4O.Tests.csproj", "{5670716A-96A0-4A02-A25A-FFA0E427D10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1AA1C7D-15D4-44EB-8FCF-2A80E5449BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AA1C7D-15D4-44EB-8FCF-2A80E5449BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AA1C7D-15D4-44EB-8FCF-2A80E5449BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AA1C7D-15D4-44EB-8FCF-2A80E5449BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5670716A-96A0-4A02-A25A-FFA0E427D10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5670716A-96A0-4A02-A25A-FFA0E427D10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5670716A-96A0-4A02-A25A-FFA0E427D10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5670716A-96A0-4A02-A25A-FFA0E427D10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

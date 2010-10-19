@@ -1,0 +1,10 @@
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\MvcDB4O.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\MvcDB4O.pdb
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\Db4objects.Db4o.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\Db4objects.Db4o.xml
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\obj\Debug\MvcDB4O.dll
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\obj\Debug\MvcDB4O.pdb
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\Db4objects.Db4o.Linq.dll
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\Cecil.FlowAnalysis.dll
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\Mono.Cecil.dll

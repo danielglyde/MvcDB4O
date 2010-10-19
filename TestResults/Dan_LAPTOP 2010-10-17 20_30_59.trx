@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="69a962a8-71d6-4b3d-8078-f8f6396daf89" name="Dan@LAPTOP 2010-10-17 20:30:59" runUser="LAPTOP\Dan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cc70170b-cea2-4759-b5eb-9d9a1855fd83">
+    <Deployment runDeploymentRoot="Dan_LAPTOP 2010-10-17 20_30_59">
+      <DeploymentItem filename="C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\MvcDB4O\MvcDB4O\bin\MvcDB4O.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-10-17T20:30:59.4843750+01:00" queuing="2010-10-17T20:31:02.0000000+01:00" start="2010-10-17T20:31:02.2656250+01:00" finish="2010-10-17T20:31:53.4843750+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="2" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="LAPTOP" outcome="Error" timestamp="2010-10-17T20:31:53.4843750+01:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="About" storage="c:\documents and settings\dan\my documents\visual studio 2010\projects\mvcdb4o\mvcdb4o.tests\bin\debug\mvcdb4o.tests.dll" id="fb884966-f890-ccc9-842f-063f451c6413">
+      <Execution id="4f656750-ba6a-4942-b2b7-f13455e8f489" />
+      <TestMethod codeBase="C:/Documents and Settings/Dan/my documents/visual studio 2010/Projects/MvcDB4O/MvcDB4O.Tests/bin/Debug/MvcDB4O.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDB4O.Tests.Controllers.HomeControllerTest, MvcDB4O.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="Index" storage="c:\documents and settings\dan\my documents\visual studio 2010\projects\mvcdb4o\mvcdb4o.tests\bin\debug\mvcdb4o.tests.dll" id="2fdd3365-4809-3923-4245-083401369062">
+      <Execution id="d5680fb5-c2f5-4a07-9720-3adf1b0a162f" />
+      <TestMethod codeBase="C:/Documents and Settings/Dan/my documents/visual studio 2010/Projects/MvcDB4O/MvcDB4O.Tests/bin/Debug/MvcDB4O.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDB4O.Tests.Controllers.StoreControllerTest, MvcDB4O.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="Index" storage="c:\documents and settings\dan\my documents\visual studio 2010\projects\mvcdb4o\mvcdb4o.tests\bin\debug\mvcdb4o.tests.dll" id="a57b0bf5-a343-db9f-2485-c64b4c9b113f">
+      <Execution id="177182d1-9a9c-498b-87eb-0dd028e06b18" />
+      <TestMethod codeBase="C:/Documents and Settings/Dan/my documents/visual studio 2010/Projects/MvcDB4O/MvcDB4O.Tests/bin/Debug/MvcDB4O.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDB4O.Tests.Controllers.HomeControllerTest, MvcDB4O.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2fdd3365-4809-3923-4245-083401369062" executionId="d5680fb5-c2f5-4a07-9720-3adf1b0a162f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a57b0bf5-a343-db9f-2485-c64b4c9b113f" executionId="177182d1-9a9c-498b-87eb-0dd028e06b18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb884966-f890-ccc9-842f-063f451c6413" executionId="4f656750-ba6a-4942-b2b7-f13455e8f489" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d5680fb5-c2f5-4a07-9720-3adf1b0a162f" testId="2fdd3365-4809-3923-4245-083401369062" testName="Index" computerName="LAPTOP" duration="00:00:50.9531250" startTime="2010-10-17T20:31:02.5312500+01:00" endTime="2010-10-17T20:31:53.4843750+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d5680fb5-c2f5-4a07-9720-3adf1b0a162f">
+    </UnitTestResult>
+    <UnitTestResult executionId="177182d1-9a9c-498b-87eb-0dd028e06b18" testId="a57b0bf5-a343-db9f-2485-c64b4c9b113f" testName="Index" computerName="LAPTOP" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="177182d1-9a9c-498b-87eb-0dd028e06b18">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f656750-ba6a-4942-b2b7-f13455e8f489" testId="fb884966-f890-ccc9-842f-063f451c6413" testName="About" computerName="LAPTOP" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f656750-ba6a-4942-b2b7-f13455e8f489">
+    </UnitTestResult>
+  </Results>
+</TestRun>
